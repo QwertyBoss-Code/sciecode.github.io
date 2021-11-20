@@ -1,5 +1,7 @@
-<center><a href="https://sciecode.github.io/"><img src="assets/images/logo.png" width="300" height="300"/></a>
-
+<center>
+  <a href="https://sciecode.github.io/"><img src="assets/images/logo.png" width="300" height="300"/>
+  </a>
+</center>
 ## Build
 
 `npm install` to install development dependencies.
